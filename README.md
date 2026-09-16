@@ -1,4 +1,4 @@
-# Multi Script - one installer supports both single-IP and multi-IP domains
+# Multi Script - supports both single-IP and multi-IP domains
 
 #### Installation
 ```
